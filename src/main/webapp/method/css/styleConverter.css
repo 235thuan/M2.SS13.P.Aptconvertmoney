@@ -1,0 +1,33 @@
+div {
+    border: 2px double grey;
+    width: 500px;
+    position :absolute;
+    left: 450px;
+    background-color: aquamarine;
+
+}
+h1 {
+     color: blueviolet;
+     position: relative;
+     alignment: center;
+    font-size: small;
+ }
+fieldset {
+    border: 2px double blue;
+
+    alignment: center;
+    background-color: aquamarine;
+    text-align: left;
+}
+legend {
+    font-size: 50px;
+    font-family: "Times New Roman";
+    color: saddlebrown;
+}
+p1{
+
+    color: chartreuse;
+    position: relative;
+    alignment: center;
+
+}

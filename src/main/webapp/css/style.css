@@ -1,0 +1,31 @@
+div {
+    border: 2px double grey;
+    width: 500px;
+    position :absolute;
+    left: 450px;
+    alignment: center;
+    background-color: aquamarine;
+    background-position: center;
+}
+fieldset {
+    border: 2px double blue;
+
+    background-color: aquamarine;
+    text-align: center;
+}
+legend {
+    font-size: 50px;
+    font-family: "Times New Roman";
+    color: saddlebrown;
+    text-align: center;
+}
+input {
+    background-color: chartreuse;
+    position: relative;
+
+
+}
+#submit {
+    background-color: deepskyblue;
+    color: saddlebrown;
+}
